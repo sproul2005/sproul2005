@@ -29,6 +29,28 @@ I enjoy building scalable, real-world web applications and integrating modern AI
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+## 📌 Featured Projects
+
+### **1️⃣ Instagram Clone (MERN + Socket.IO + JWT + Cloudinary)** 
+📂 GitHub: *https://github.com/sproul2005/INSTAGRAM_CLONE* 
+🔗 Live: https://instagram-clone-qobx.onrender.com  
+ 
+### **2️⃣ MediMeet – Doctor Appointment Web App**  
+📂 GitHub: *https://github.com/sproul2005/MEDIMEET*  
+🔗 Live: *https://medimeet-d27fnqv8c-satya-prakash-rouls-projects.vercel.app/*  
+
+### **3️⃣ WanderLust – Travel Booking Web App**  
+📂 GitHub: *https://github.com/sproul2005/WANDERLUST*  
+🔗 Live: *https://wanderlust-i0mb.onrender.com*  
+
+### **4️⃣ JobPortal – Job Listing & Application Platform**  
+📂 GitHub: *https://github.com/sproul2005/JOBPORTAL*  
+🔗 Live: *https://jobportal-as0d.onrender.com*    
+
+### **5️⃣ AI Voice Assistant Dashboard (MERN + Gemini API)**  
+📂 GitHub: *https://github.com/sproul2005/AI-Virtual-Assistant*  
+🔗 Live: *https://ai-virtual-assistant-qmf4.onrender.com*  
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
