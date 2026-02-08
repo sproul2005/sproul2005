@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Satya Prakash Roul
 
-🚀 Full-Stack Web Developer | MERN Stack | AI & Automation Enthusiast  
-
-I'm a final-year B.Tech CSE student passionate about building real-world, scalable applications using the **MERN stack** and modern **AI tools**. I love creating impactful products, solving problems, and continuously improving my development skills.
+I'm a final-year B.Tech Computer Science student and Full-Stack Web Developer specializing in the MERN stack.
+I enjoy building scalable, real-world web applications and integrating modern AI solutions to solve practical problems. I’m driven by continuous learning, clean architecture, and turning ideas into reliable products.
 
 ---
 
 ## 💡 About Me
 
-- 🌱 Currently learning **Full-Stack Development, AI Integration & Cloud Deployment**
-- 🤖 Building an **AI-powered Voice Assistant (MERN + Gemini API)**
-- 🧪 Exploring automation tools, code review AI, and freelancing.
+- 🧑‍💻 Strong hands-on experience in building full-stack MERN applications with authentication, real-time features, and clean APIs.
+- 🤖 Actively working on AI-powered projects, including a voice assistant using MERN + Gemini API.
+- ☁️ Exploring cloud deployment, automation tools, and scalable system design.
+- 🚀 Interested in freelancing, product development, and solving real-world problems.
 
 ---
 
