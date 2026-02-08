@@ -66,7 +66,7 @@ I enjoy building scalable, real-world web applications and integrating modern AI
 📂 **GitHub:** https://github.com/sproul2005/AI-Virtual-Assistant  
 🔗 **Live:** https://ai-virtual-assistant-qmf4.onrender.com  
 
-
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sproul2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
