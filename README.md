@@ -29,7 +29,9 @@ I enjoy building scalable, real-world web applications and integrating modern AI
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-## 📌 Featured Projects
+
+
+### 📌 Featured Projects
 
 ### **1️⃣ Instagram Clone (MERN + Socket.IO + JWT + Cloudinary)** 
 📂 GitHub: *https://github.com/sproul2005/INSTAGRAM_CLONE* 
@@ -51,6 +53,7 @@ I enjoy building scalable, real-world web applications and integrating modern AI
 📂 GitHub: *https://github.com/sproul2005/AI-Virtual-Assistant*  
 🔗 Live: *https://ai-virtual-assistant-qmf4.onrender.com*  
 
+🌐 Portfolio: *https://portfolio-l30fvhje6-satya-prakash-rouls-projects.vercel.app/*
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
