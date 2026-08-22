@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Satya Prakash Roul
 
-I'm a final-year B.Tech Computer Science student and Full-Stack Web Developer specializing in the MERN stack.
+B.Tech graduate in Computer Science and Engineering with hands-on experience in MERN stack development.
+Proficient in building web applications,REST APIs and authentication systems.Strong foundation in Data Structures,DBMS and OOP. 
 I enjoy building scalable, real-world web applications and integrating modern AI solutions to solve practical problems. I’m driven by continuous learning, clean architecture, and turning ideas into reliable products.
+Seeking a Software Engineer role to contribute to scalable software solutions.
 
 ---
 
